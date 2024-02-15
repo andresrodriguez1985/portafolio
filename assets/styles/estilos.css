@@ -1,0 +1,21 @@
+.fondomenu{
+    background-color: black;
+}
+.letratitulo1{
+    color:aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.letratitulo2{
+    color:aqua;
+    font-size: 30px;
+    font-weight: bold;
+}
+.boton{
+    background-color: aqua;
+}
+.letratitulo3 {
+    color:aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+}
